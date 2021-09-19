@@ -1,11 +1,11 @@
-package ch.bbcag.mdriver;
+package ch.noebuerki.mindstormsdriver;
 
-import ch.bbcag.mdriver.commons.StateCode;
-import ch.bbcag.mdriver.commons.StateMessage;
-import ch.bbcag.mdriver.connection.Server;
-import ch.bbcag.mdriver.engine.Engine;
-import ch.bbcag.mdriver.engine.RecordPlayer;
-import ch.bbcag.mdriver.view.View;
+import ch.noebuerki.mindstormsdriver.commons.StateCode;
+import ch.noebuerki.mindstormsdriver.commons.StateMessage;
+import ch.noebuerki.mindstormsdriver.connection.Server;
+import ch.noebuerki.mindstormsdriver.engine.Engine;
+import ch.noebuerki.mindstormsdriver.engine.RecordPlayer;
+import ch.noebuerki.mindstormsdriver.view.View;
 import lejos.hardware.Button;
 import lejos.hardware.Key;
 import lejos.hardware.KeyListener;

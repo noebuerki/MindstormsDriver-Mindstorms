@@ -1,7 +1,8 @@
-package ch.bbcag.mdriver.connection;
+package ch.noebuerki.mindstormsdriver.connection;
 
 import ch.bbcag.mdriver.commons.*;
-import ch.bbcag.mdriver.view.View;
+import ch.noebuerki.mindstormsdriver.commons.*;
+import ch.noebuerki.mindstormsdriver.view.View;
 import com.google.gson.Gson;
 
 import java.io.DataInputStream;

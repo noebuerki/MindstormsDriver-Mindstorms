@@ -1,8 +1,8 @@
-package ch.bbcag.mdriver.view;
+package ch.noebuerki.mindstormsdriver.view;
 
-import ch.bbcag.mdriver.commons.DriveMessage;
-import ch.bbcag.mdriver.commons.Message;
-import ch.bbcag.mdriver.commons.Record;
+import ch.noebuerki.mindstormsdriver.commons.DriveMessage;
+import ch.noebuerki.mindstormsdriver.commons.Message;
+import ch.noebuerki.mindstormsdriver.commons.Record;
 import lejos.hardware.ev3.LocalEV3;
 import lejos.hardware.lcd.GraphicsLCD;
 import lejos.hardware.lcd.LCD;

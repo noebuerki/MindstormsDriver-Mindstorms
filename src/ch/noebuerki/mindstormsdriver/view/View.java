@@ -1,6 +1,6 @@
-package ch.bbcag.mdriver.view;
+package ch.noebuerki.mindstormsdriver.view;
 
-import ch.bbcag.mdriver.commons.Record;
+import ch.noebuerki.mindstormsdriver.commons.Record;
 import lejos.hardware.LED;
 import lejos.hardware.ev3.LocalEV3;
 import lejos.hardware.lcd.Font;

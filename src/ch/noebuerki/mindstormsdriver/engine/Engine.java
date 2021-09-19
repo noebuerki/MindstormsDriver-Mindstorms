@@ -1,4 +1,4 @@
-package ch.bbcag.mdriver.engine;
+package ch.noebuerki.mindstormsdriver.engine;
 
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
 import lejos.hardware.motor.EV3MediumRegulatedMotor;
@@ -8,7 +8,7 @@ import lejos.robotics.RegulatedMotor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-import ch.bbcag.mdriver.view.View;
+import ch.noebuerki.mindstormsdriver.view.View;
 
 public class Engine {
 

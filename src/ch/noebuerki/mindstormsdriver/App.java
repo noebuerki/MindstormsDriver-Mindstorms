@@ -1,4 +1,4 @@
-package ch.bbcag.mdriver;
+package ch.noebuerki.mindstormsdriver;
 
 public class App {
 

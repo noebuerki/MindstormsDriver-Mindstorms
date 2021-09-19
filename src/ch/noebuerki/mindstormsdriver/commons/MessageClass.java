@@ -1,4 +1,4 @@
-package ch.bbcag.mdriver.commons;
+package ch.noebuerki.mindstormsdriver.commons;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package ch.bbcag.mdriver.commons;
+package ch.noebuerki.mindstormsdriver.commons;
 
 public enum MessageType {
     @MessageClass(type = DriveMessage.class)
